@@ -31,7 +31,7 @@ Every device on an IP-based network requires an IP address for communication. My
 For the manually configured interface, `ether2` (LAN), we will assign a static IP address to enable communication between devices on the local network.
 command: ip address add address=x.x.x.x/xx interface=`port-id`
  <img width="703" height="24" alt="image" src="https://github.com/user-attachments/assets/c9a2af0e-60c1-4622-aec1-f11ad8dba151" /> <br>
-verification: <img width="484" height="101" alt="image" src="https://github.com/user-attachments/assets/d64709db-c1ee-40a2-a636-e42375d986ec" />
+verification: <br> <img width="484" height="101" alt="image" src="https://github.com/user-attachments/assets/d64709db-c1ee-40a2-a636-e42375d986ec" />
 
 
 
