@@ -33,6 +33,6 @@ command: ip address add address=x.x.x.x/xx interface=`port-id`
  <img width="703" height="24" alt="image" src="https://github.com/user-attachments/assets/c9a2af0e-60c1-4622-aec1-f11ad8dba151" /> <br>
 verification: <br> <img width="484" height="101" alt="image" src="https://github.com/user-attachments/assets/d64709db-c1ee-40a2-a636-e42375d986ec" />
 
-
+04 - 
 
 
